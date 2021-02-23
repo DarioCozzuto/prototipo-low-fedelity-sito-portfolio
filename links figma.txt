@@ -1,0 +1,5 @@
+mobile: https://www.figma.com/file/G9wGYuQG7yV8BCHBvCvc7q/Portfolio-mobile?node-id=0%3A1
+
+desktop: https://www.figma.com/file/WqGuiZC8LjglJ329ztiWGF/Portfolio-desktop?node-id=0%3A1
+
+
